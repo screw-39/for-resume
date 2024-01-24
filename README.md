@@ -11,6 +11,7 @@
 ## 本地開發環境
 
 1. 開發環境: `anaconda`
+
 2. python版本: `3.6+`
 
 ## 說明
@@ -24,9 +25,11 @@ ps:其中程式碼僅為展示之用，故有做刪減，儘量附上其中所�
 1. 網路爬蟲
 - [使用selenium抓取blast資料](./網路爬蟲/blast_crawler.ipynb)
 
+
 2. 資料可視化
 - [分群結果作圖](./資料可視化/draw_vision_kmeans.ipynb)
 - [訓練資料分布情形展示](./資料可視化/poster_pic.ipynb)
+
 
 3. 資料處理
 - [蛋白質實驗紀錄過濾](./資料處理/data_preparation.ipynb)
